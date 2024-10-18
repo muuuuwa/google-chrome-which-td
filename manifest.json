@@ -18,7 +18,9 @@
       "matches": [
         "https://console.treasuredata.com/*",
         "https://console.eu01.treasuredata.com/*",
-        "https://console.treasuredata.co.jp/*"
+        "https://console.treasuredata.co.jp/*",
+        "https://console-next.treasuredata.com/*",
+        "https://console-next.treasuredata.co.jp/*"
       ],
       "js": [
         "src/inject/inject.js"
